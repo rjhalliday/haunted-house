@@ -132,10 +132,6 @@ def analyse_input(game_context):
     # You shouldn't get here
   #  message = "SOMETHING UNUSAL HAS HAPPENED."
 
-  # TO DO, remove these flags
-  #verb_index = verb in verbs
-  #object_index = word in objects
-
   #return verb_index, object_index, verb, word, message
 
 def init(game_context):
